@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mocella.AsbSender", "Mocella.AsbSender\Mocella.AsbSender.csproj", "{4CFAA2BE-020F-4C5A-9898-C41D47653B02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mocella.AsbHost", "Mocella.AsbHost\Mocella.AsbHost.csproj", "{6F808166-AD70-4147-9FA8-1B07D56C3554}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mocella.AsbHost.Tests", "Mocella.AsbHost.Tests\Mocella.AsbHost.Tests.csproj", "{2D96509D-F7C0-4B9A-8D83-88A0A117C7A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CFAA2BE-020F-4C5A-9898-C41D47653B02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CFAA2BE-020F-4C5A-9898-C41D47653B02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CFAA2BE-020F-4C5A-9898-C41D47653B02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CFAA2BE-020F-4C5A-9898-C41D47653B02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F808166-AD70-4147-9FA8-1B07D56C3554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F808166-AD70-4147-9FA8-1B07D56C3554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F808166-AD70-4147-9FA8-1B07D56C3554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F808166-AD70-4147-9FA8-1B07D56C3554}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D96509D-F7C0-4B9A-8D83-88A0A117C7A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D96509D-F7C0-4B9A-8D83-88A0A117C7A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D96509D-F7C0-4B9A-8D83-88A0A117C7A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D96509D-F7C0-4B9A-8D83-88A0A117C7A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
